@@ -1,6 +1,6 @@
 # prime_yf2675
 
-hw7
+This is a package that contains a function to test prime number 
 
 ## Installation
 
